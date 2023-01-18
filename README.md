@@ -1,2 +1,2 @@
-# webhook-thing
-i see a bunch of people adding it to their luas so i will release it
+# webhook for gta online lua 2take1 loled
+people already added it everywhere and i used this for le funny auto crash lua so have fun
